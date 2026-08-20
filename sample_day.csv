@@ -1,0 +1,13 @@
+as_of,ticker,company,ats,postings_open,postings_new,postings_removed,distinct_locations,top_location,top_category,au_share,postings_with_salary,salary_min_median,salary_max_median,top_seniority
+2026-08-20,AAI,ALCOA CORPORATION,workday,103,1,0,24,"Brazil, MA, São Luis",,0.304,0,,,manager
+2026-08-20,ALD,AMPOL LIMITED,smartrecruiters,146,3,2,108,"Alexandria, AU",Customer Service,0.932,0,,,manager
+2026-08-20,ALL,Aristocrat Leisure,workday,168,0,1,33,"Las Vegas, NV, US",,0.095,0,,,senior
+2026-08-20,ALQ,ALS Ltd,workday,483,0,1,152,"Ciudad de Mexico, Mexico",,0.197,0,,,manager
+2026-08-20,AMI,Aurelia Metals,teamtailor,19,,,3,"Hillston, AU",,1.0,0,,,junior
+2026-08-20,APA,APA Group,workday,15,0,0,6,3 Locations,,0.667,0,,,manager
+2026-08-20,ASX,ASX Ltd,workday,81,0,2,3,Sydney Office,,1.0,0,,,senior
+2026-08-20,BGA,BEGA CHEESE LIMITED,workday,60,1,0,18,Docklands (VIC),,0.759,0,,,manager
+2026-08-20,BRG,Breville Group,cornerstone,23,1,0,9,"Alexandria, NSW, AU",,0.522,0,,,manager
+2026-08-20,BSL,BLUESCOPE STEEL LIMITED,smartrecruiters,23,0,0,11,"Port Kembla, AU",Accounting/Auditing,1.0,0,,,senior
+2026-08-20,BXB,BRAMBLES LIMITED,workday,169,0,0,75,2 Locations,,0.118,0,,,manager
+2026-08-20,CAR,CAR GROUP LIMITED,smartrecruiters,37,1,0,5,"Melbourne, AU",Auto,1.0,0,,,manager
