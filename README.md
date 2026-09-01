@@ -4,7 +4,7 @@ A monthly read on hiring across ASX-listed companies, measured where hiring
 actually happens: each company's own careers system, observed daily. The count comes from the employers' own postings rather than job
 boards or surveys, observed and differenced day by day.
 
-**Latest edition: [August 2026](PULSE-2026-08.md)**
+**Latest edition: [2026-09](PULSE-2026-09.md)**
 
 ## What this is
 
