@@ -28,7 +28,7 @@ data rather than inferred from absence. Full methodology in the dictionary.
 
 The full panel (daily CSV, all companies, history from 2026-08-16) is
 available for research use free of charge, and commercially by arrangement.
-Contact: hvass97@gmail.com
+Contact: via the repository Discussions or Issues on GitHub.
 
-*Derived metrics only: no advertisement text, no personal data. © Harry Vass.
+*Derived metrics only: no advertisement text, no personal data. © ausdata / Bigred97.
 Pulse editions and sample data may be shared with attribution.*
